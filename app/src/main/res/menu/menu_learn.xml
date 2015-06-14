@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="devesh.ephrine.selfhypnosis.Learn">
+    <item android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/about"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Self Hypnosis Therapy</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_about">about</string>
+    <string name="title_activity_learn">Learn</string>
+    <string name="title_activity_faq">faq</string>
+    <string name="title_activity_spiral">spiral</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!-- Test ad id ca-app-pub-3940256099942544/6300978111 -->
+</resources>
