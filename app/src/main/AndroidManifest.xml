@@ -44,7 +44,8 @@
         <activity
             android:name=".MainActivity"
             android:label="Hallucinate Me !!!"
-            android:theme="@style/AppTheme1" >
+            android:theme="@style/AppTheme1"
+            android:screenOrientation="landscape">
             <intent-filter>
 
                 <action android:name="android.intent.action.MAIN" />

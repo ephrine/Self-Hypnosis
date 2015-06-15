@@ -2,165 +2,165 @@
 <items version="2" >
 
     <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-b1c1ba58ff67a520387a97de030568a4e6930123.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-b40f3b6358eb010eb6b6de56dedb6adc26fb8001.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-fc6989905438f26711a6f5dba535f9760af59aa1.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-9c9e8aa3812b8776e7d2c6fa1ce8317975b87759.jar" />
-    </item>
-    <item
         jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-5cc57c89f23e12a7e6251495e8045ef510a626b4.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-5483e46713bc507c6dc7b13af6b66d888e560b07.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-f5e14c92a160e76c774a0cc4768baba437579afc.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-a9c1eb7a26a5f4597d7eee1565e6a0418cf28fed.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-5e15a9a729ea03b1381d79b86df5459d43f1fa71.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-61f4a12183d8f9a5b904c93dc995b66eb796dffc.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-139d7654f8ce956916d6e57d1e660fc71a12f39b.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-87dac11068a01e376f4eb1edcc76773a2bcc5cb0.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-8c62f93b9f5f5c884478956af204fdf88e4ad966.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-fa4efc7bc818202c3b23e4c933c8ba478bb3a8aa.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="055783146ba9654a725442563be78cad303aad1f">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-043d54b6431334c1d25ad062c0a9b278d8697edf.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-4a64e94fa9a92ff1bc4bd52dd6f664fafea603c8.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-77f66ad35ec8010bfd587777830c1569cf501bf2.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-2cf4bf8562e3572475ad4075ea1b6e38fa980fc6.jar" />
-    </item>
-    <item
-        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-8e08e70405d8a60417c5e02a78546a38a822cb18.jar" />
-    </item>
-    <item
-        jar="E:\Devesh inc\Devesh app world\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-878bb4b5d82360e43e4789463d2187118970e8c6.jar" />
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-5cc57c89f23e12a7e6251495e8045ef510a626b4.jar" />
     </item>
     <item
         jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-01d12a6aaf6fab6b28d50bd9aeac8e17c55df6a4.jar" />
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-01d12a6aaf6fab6b28d50bd9aeac8e17c55df6a4.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-5e15a9a729ea03b1381d79b86df5459d43f1fa71.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-b1c1ba58ff67a520387a97de030568a4e6930123.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-8e08e70405d8a60417c5e02a78546a38a822cb18.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-4a64e94fa9a92ff1bc4bd52dd6f664fafea603c8.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-2cf4bf8562e3572475ad4075ea1b6e38fa980fc6.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-f5e14c92a160e76c774a0cc4768baba437579afc.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\internal_impl-22.1.1-b40f3b6358eb010eb6b6de56dedb6adc26fb8001.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-61f4a12183d8f9a5b904c93dc995b66eb796dffc.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-87dac11068a01e376f4eb1edcc76773a2bcc5cb0.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-139d7654f8ce956916d6e57d1e660fc71a12f39b.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-77f66ad35ec8010bfd587777830c1569cf501bf2.jar" />
     </item>
     <item
         jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-0251991de0539bbd1b3c0f40b37ed73f067dfb66.jar" />
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-0251991de0539bbd1b3c0f40b37ed73f067dfb66.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-a9c1eb7a26a5f4597d7eee1565e6a0418cf28fed.jar" />
+    </item>
+    <item
+        jar="E:\Devesh inc\Devesh app world\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\support-annotations-22.1.1-878bb4b5d82360e43e4789463d2187118970e8c6.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-043d54b6431334c1d25ad062c0a9b278d8697edf.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-5483e46713bc507c6dc7b13af6b66d888e560b07.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-fc6989905438f26711a6f5dba535f9760af59aa1.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-9c9e8aa3812b8776e7d2c6fa1ce8317975b87759.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-8c62f93b9f5f5c884478956af204fdf88e4ad966.jar" />
+    </item>
+    <item
+        jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-fa4efc7bc818202c3b23e4c933c8ba478bb3a8aa.jar" />
     </item>
     <item
         jar="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
-        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\debug\classes-0070a8d4f515582e11fed12de5652ff870c9048a.jar" />
+        <dex dex="E:\Devesh_inc\Android_Development\Project\AndroidStudio\SelfHypnosis\app\build\intermediates\pre-dexed\release\classes-0070a8d4f515582e11fed12de5652ff870c9048a.jar" />
     </item>
 
 </items>

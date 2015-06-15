@@ -11,7 +11,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="create a short term hallucinations by self hypnosis"
+        android:text="create a short term hallucinations by hypnosis"
         android:id="@+id/button"
         android:onClick="start"
         android:layout_below="@+id/imageView2"
