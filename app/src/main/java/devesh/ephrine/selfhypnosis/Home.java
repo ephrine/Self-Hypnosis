@@ -56,13 +56,7 @@ public class Home extends ActionBarActivity {
         // test
         // AD
 
-    //   mInterstitialAd.setAdUnitId("ca-app-pub-6702661245453687/5778651052"); // WARNING
-        // !!!!!->
-        // My
-        // OWN
-        // f**kin
-        // AD
-        // id
+  
 
         requestNewInterstitial();
 
